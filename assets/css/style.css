@@ -1441,6 +1441,12 @@ form .button-area {
   background: #f5f5f5;
 }
 
+.assignment-item__url {
+  /* width: 400px; */
+  display: block;
+  margin: 32px 16px;
+}
+
 .assignment-item {
   display: flex;
   padding: 2rem;
